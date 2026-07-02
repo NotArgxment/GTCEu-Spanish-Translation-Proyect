@@ -3,6 +3,7 @@
   "behavior.data_item.title": "§n%s Construction Data:",
   "behavior.item_magnet.disabled": "§cMagnetic Field Disabled",
   "behavior.item_magnet.enabled": "§aMagnetic Field Enabled",
+  
   "behavior.portable_scanner.amp_per_sec": "Average (last second): %s A",
   "behavior.portable_scanner.bedrock_fluid.amount": "Fluid In Deposit: %s %s - %s%%",
   "behavior.portable_scanner.bedrock_fluid.amount_unknown": "Fluid In Deposit: %s%%",
@@ -54,6 +55,7 @@
   "behavior.portable_scanner.workable_production": "Probably Produces: %s EU/t at %s A",
   "behavior.portable_scanner.workable_progress": "Progress: %s s / %s s",
   "behavior.portable_scanner.workable_stored_energy": "Stored Energy: %s EU / %s EU",
+  
   "behavior.prospector.added_waypoint": "Created waypoint named %s!",
   "behavior.prospector.display_all": "All resources",
   "behavior.prospector.mode.bedrock_ore": "§bBedrock Ore Prospection Mode",
@@ -62,14 +64,17 @@
   "behavior.prospector.not_enough_energy": "Not Enough Energy!",
   "behavior.prospector.tooltip.modes": "Available Modes:",
   "behavior.prospector.tooltip.radius": "Scans resources in a %s Chunk Radius",
+  
   "behavior.toggle_energy_consumer.tooltip": "Use to toggle mode",
   "behaviour.boor.by": "by %s",
   "behaviour.hammer": "Turns on and off Muffling for Machines (by hitting them)",
   "behaviour.hoe": "Can till dirt",
+  
   "behaviour.lighter.fluid.tooltip": "Can light things on fire with Butane or Propane",
   "behaviour.lighter.tooltip.description": "Can light things on fire",
   "behaviour.lighter.tooltip.usage": "Shift-right click to open/close",
   "behaviour.lighter.uses": "Remaining uses: %d",
+  
   "behaviour.memory_card.client_msg.cleared": "Stored configuration cleared",
   "behaviour.memory_card.client_msg.copied": "Copied machine configuration",
   "behaviour.memory_card.client_msg.missing_items": "Missing items required to paste configuration",
@@ -81,6 +86,7 @@
   "behaviour.memory_card.tooltip.items_to_paste": "The following items are needed to paste this configuration:",
   "behaviour.memory_card.tooltip.paste": "§7R-Click to paste machine configuration",
   "behaviour.memory_card.tooltip.view_stored": "§8<Sneak to view stored configuration>",
+  
   "behaviour.paintspray.black.tooltip": "Can paint things in Black",
   "behaviour.paintspray.blue.tooltip": "Can paint things in Blue",
   "behaviour.paintspray.brown.tooltip": "Can paint things in Brown",
@@ -99,7 +105,9 @@
   "behaviour.paintspray.uses": "Remaining Uses: %d",
   "behaviour.paintspray.white.tooltip": "Can paint things in White",
   "behaviour.paintspray.yellow.tooltip": "Can paint things in Yellow",
+  
   "behaviour.prospecting": "Usable for Prospecting",
+  
   "behaviour.setting.tooltip.allow_input": "§2Allow Input§r",
   "behaviour.setting.tooltip.auto_output": "§2Auto Output§r",
   "behaviour.setting.tooltip.auto_output_allow_input": "§2Auto Output/Allow Input§r",
@@ -109,12 +117,15 @@
   "behaviour.setting.tooltip.muffled": "Muffling %s",
   "behaviour.setting.tooltip.pipe_blocked_connections": "Pipe shuttered sides: %s",
   "behaviour.setting.tooltip.pipe_connections": "Pipe connections: %s",
+  
   "behaviour.soft_hammer": "Activates and Deactivates Machines",
   "behaviour.soft_hammer.disabled": "Working Disabled",
   "behaviour.soft_hammer.disabled_cycle": "Working Disabled after current cycle",
   "behaviour.soft_hammer.enabled": "Working Enabled",
   "behaviour.soft_hammer.ignored": "Machine cannot be disabled",
+  
   "behaviour.wrench": "Rotates Blocks on Rightclick",
+  
   "block.filter_casing.tooltip": "Creates a §aParticle-Free§7 environment",
   "block.gtceu.acid_hazard_sign_block": "Acid Hazard Sign Block",
   "block.gtceu.active_transformer": "Active Transformer",
@@ -1734,6 +1745,7 @@
   "block.surface_rock": "%s Surface Rock",
   "button.gtceu.mark_as_depleted.name": "Mark as Depleted",
   "button.gtceu.toggle_waypoint.name": "Toggle Waypoint",
+  
   "command.gtceu.cape.failure.does_not_exist": "Cape %s does not exist",
   "command.gtceu.cape.give.failed": "No new capes were unlocked",
   "command.gtceu.cape.give.success.multiple": "Unlocked %s capes for %s players",
@@ -1764,6 +1776,7 @@
   "command.gtceu.place_vein.failure": "Failed to place vein %s at position %s",
   "command.gtceu.place_vein.success": "Placed vein %s at position %s",
   "command.gtceu.share_prospection_data.notification": "%s is sharing prospecting data with you!",
+  
   "config.gtceu.option.addLoot": "addLoot",
   "config.gtceu.option.ae2": "ae2",
   "config.gtceu.option.allowedImageDomains": "allowedImageDomains",
@@ -1981,6 +1994,7 @@
   "config.jade.plugin_gtceu.transformer": "[GTCEu] Transformer Info",
   "config.jade.plugin_gtceu.workable_provider": "[GTCEu] Workable",
   "config.screen.gtceu": "GregTechCEu Configuration",
+  
   "cover.advanced_detector.latch.disabled.0": "Behavior: Continuous",
   "cover.advanced_detector.latch.disabled.1": "",
   "cover.advanced_detector.latch.disabled.2": "Change the redstone behavior of this Cover.",
@@ -2180,6 +2194,7 @@
   "cover.voiding.voiding_mode.void_any": "Void Matching",
   "cover.voiding.voiding_mode.void_overflow": "Void Overflow",
   "curios.identifier.gtceu_magnet": "GTCEu Magnet",
+  
   "death.attack.gtceu.axe": "%s was chopped by %s",
   "death.attack.gtceu.butchery_knife": "%s was butchered by %s",
   "death.attack.gtceu.buzzsaw": "%s was buzzed by %s",
@@ -2229,22 +2244,26 @@
   "death.attack.gtceu.wrench_iv": "%s had a wrench thrown into their plans by %s",
   "death.attack.gtceu.wrench_lv": "%s's pipes were loosened by %s",
   "effect.gtceu.weak_poison": "Weak Poison",
+  
   "enchantment.damage.disjunction": "Disjunction",
   "enchantment.disjunction": "Disjunction",
   "enchantment.gtceu.disjunction.description": "Applies Weakness and Slowness to Ender-related mobs.",
   "enchantment.gtceu.hard_hammer.description": "Breaks blocks as if they were mined with a GregTech Hammer.",
   "enchantment.hard_hammer": "Hammering",
+  
   "entity.gtceu.boat": "Boat",
   "entity.gtceu.chest_boat": "Chest Boat",
   "entity.gtceu.dynamite": "Dynamite",
   "entity.gtceu.industrial_tnt": "Industrial TNT",
   "entity.gtceu.powderbarrel": "Powderbarrel",
+  
   "fluid.empty": "Empty",
   "fluid.gtceu.potion": "Potion",
   "fluid.spawnlocation.name": "Fluid Vein Information",
   "fluid.tile.lava": "Lava",
   "fluid.tile.water": "Water",
   "fluid_cell.empty": "Empty",
+  
   "gtceu.air_scrubber": "Air Scrubber",
   "gtceu.alloy_blast_smelter": "Alloy Blast Smelter",
   "gtceu.alloy_smelter": "Alloy Smelter",
@@ -2345,15 +2364,18 @@
   "gtceu.creative_tooltip.2": " Creative Mode",
   "gtceu.creative_tooltip.3": "§7 to use this",
   "gtceu.cutter": "Cutter",
+
   "gtceu.debug.f3_h.enabled": "GregTech has modified the debug info! For Developers: enable the misc:debug config option in the GregTech config file to see more",
   "gtceu.debug.resource_rebuild.done": "Gradle resource rebuild done in %s",
   "gtceu.debug.resource_rebuild.start": "Invoking gradle resource rebuild (./gradlew :processResources)",
+  
   "gtceu.direction.tooltip.back": "Back",
   "gtceu.direction.tooltip.down": "Down",
   "gtceu.direction.tooltip.front": "Front",
   "gtceu.direction.tooltip.left": "Left",
   "gtceu.direction.tooltip.right": "Right",
   "gtceu.direction.tooltip.up": "Up",
+  
   "gtceu.display_source.computer_monitor_cover": "Computer Monitor Cover",
   "gtceu.display_target.computer_monitor_cover": "Computer Monitor Cover",
   "gtceu.distillation_tower": "Distillation Tower",
@@ -2364,14 +2386,17 @@
   "gtceu.electric_furnace": "Electric Furnace",
   "gtceu.electrolyzer": "Electrolyzer",
   "gtceu.electromagnetic_separator": "Electromagnetic Separator",
+  
   "gtceu.ender_item_link_cover.title": "Ender Item Link",
   "gtceu.ender_item_link_cover.tooltip": "§7Transports §fItems§7 with a §fWireless §dEnder§f Connection§7 as §fCover§7.",
   "gtceu.ender_redstone_link_cover.label": "Redstone power: %d",
   "gtceu.ender_redstone_link_cover.title": "Ender Redstone Link",
   "gtceu.ender_redstone_link_cover.tooltip": "§7Transmits §fRedstone signals§7 with a §fWireless §dEnder§f Connection§7 as §fCover§7.",
+  
   "gtceu.extractor": "Extractor",
   "gtceu.extruder": "Extruder",
   "gtceu.fermenter": "Fermenter",
+  
   "gtceu.fluid.amount": "§9Amount: %d/%d mB",
   "gtceu.fluid.click_combined": "§7Click with a Fluid Container to §cempty §7or §bfill §7the tank (Shift-click for a full stack).",
   "gtceu.fluid.click_to_empty": "§7Click with a Fluid Container to §cempty §7the tank (Shift-click for a full stack).",
